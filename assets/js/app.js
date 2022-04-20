@@ -4,6 +4,7 @@ const app = new Vue({
     el: '#app',
     // dati contenuti
     data: {
-        hello: 'Hello World'
+        hello: 'Hello World',
+        image: 'https://picsum.photos/400/400'
     },
 });
